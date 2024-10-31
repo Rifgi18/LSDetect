@@ -1,0 +1,220 @@
+<resources>
+    <string name="app_name">LSDetect</string>
+    <string name="title_home">Beranda</string>
+    <string name="title_history">Riwayat Deteksi</string>
+    <string name="title_Change">Ubah Profil</string>
+    <string name="capture">ambil</string>
+    <string name="help">bantuan</string>
+    <string name="title_detection">Deteksi</string>
+    <string name="title_camera">Camera</string>
+    <string name="title_profile">Akun</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="SubContent">Lakukan Deteksi</string>
+    <string name="email">Email</string>
+    <string name="hintEmail">Email</string>
+    <string name="hintPass">Kata Sandi</string>
+    <string name="hintName">Nama Lengkap</string>
+    <string name="errorEmail">masukkan format email yang benar</string>
+    <string name="errorPass">Kata sandi tidak boleh kosong</string>
+
+    <string name="loading">Loading....!</string>
+    <string name="welcome">Selamat Datang, User</string>
+    <string name="timeNow">17 Juli 2024</string>
+
+    <string name="detectionCv1">Ambil Gambar</string>
+    <string name="detectionCv2">Lihat Hasil</string>
+    <string name="detectionCv3">Lakukan Deteksi</string>
+    <string name="detectionCv4">Lihat Hasil</string>
+
+    <string name="date">Tanggal</string>
+    <string name="delete">Hapus</string>
+    <string name="signOut">Keluar</string>
+    <string name="testText">Hello blank fragment</string>previewimg
+    <string name="previewimg">Preview Image</string>
+    <string name="openGallery">Galeri</string>
+    <string name="openCamera">Kamera</string>
+    <string name="result">Penyakit</string>
+    <string name="resultConfidence">Informasi Tindakan</string>
+    <string name="criteriaImage">Ambil atau pilih gambar sekarang untuk melakukan deteksi!</string>
+
+    <string name="resultDetect"> Deteksi</string>
+    <string name="emptyRv">Tidak Ada Data</string>
+    <string name="informAppbar">Informasi Gejala</string>
+    <string name="predictImg">Pindai Gambar</string>
+    <string name="title_activity_inform_gejala">InformGejalaActivity</string>
+
+    <string name="your_web_client_id">952924670071-g16gq5a86pmgtgfpv4slph8rvci3p5ri.apps.googleusercontent.com</string>
+
+    <string name="tab_text_1">Penyebaran</string>
+    <string name="tab_text_2">Tindakan</string>
+    <string name="tab_text_3">Perawatan</string>
+    <string name="content_tab_home">Welcome Home</string>
+    <string name="content_tab_profile">Change your Profile here</string>
+    <string name="content_tab_text">This is Tab %1$d</string>
+    <string name="tabLabel">Tab Layout Gejala</string>
+
+    <string name="message_cancel">Apakah anda ingin keluar akun ?</string>
+    <string name="message_delete">Apakah anda yakin ingin menghapus item ini?</string>
+    <string name="added">Satu item berhasil ditambahkan</string>
+    <string name="cancel">Batal</string>
+    <string name="yes">Ya</string>
+    <string name="no">Tidak</string>
+    <string name="deleted">Satu item berhasil dihapus</string>
+
+    <string name="inform1">Gejala LSD</string>
+    <string name="inform2">Informasi LSD</string>
+    <string name="inform3">Info Kasus LSD</string>
+    <string name="inform4">Tentang Aplikasi</string>
+
+    <string name="informMainKonten">Gejala-Gejala Klinis </string>
+
+
+    <string name="penyebaranMain1">Penyebab Virus LSD</string>
+    <string name="penyebaranMain2">Penyebaran Virus LSD</string>
+    <string name="penyebaran1">Lumpy Skin Disease (LSD) adalah penyakit virus pada sapi dan kerbau, yang disebabkan oleh lumpy skin disease virus (LSDV) yang termasuk dalam genus Capripoxvirus, famili Poxviridae. Genus Capripoxvirus juga terdiri dari goatpox virus (GTPV) dan sheepox virus (SPPV). Di lingkungan, virus LSD sangat stabil dalam waktu lama pada suhu kamar, terutama pada keropeng kering. Pada kulit yang mengalami nekrotik, virus pada nodul dapat bertahan hingga 33 hari atau lebih, pada kerak kering hingga 35 hari, dan setidaknya 18 hari dalam kulit yang dikeringkan.</string>
+
+    <string name="tindakanMain1">Tindakan Pertama ketika Sapi terindikasi virus LSD</string>
+    <string name="tindakanMain2">Pencegahan dan Pengendalian Penyakit LSD</string>
+    <string name="tindakan1">Apabila Sapi telah terinveksi lumpy skin disease, peternak perlu segera melaporkan kasus ke pusat kesehatan untuk intervensi yang tepat. Meskipun tidak ada obat khusus untuk LSD, tindakan cepat dapat meringankan kondisi, seperti menjaga hidrasi untuk mencegah dehidrasi dan memberikan perawatan medis yang berkelanjutan. Langkah-langkah seperti pengurangan demam dan rasa sakit dapat merangsang nafsu makan dan mencegah komplikasi internal seperti luka di kerongkongan yang menghambat pemberian pakan. Penting juga untuk menjaga kebersihan dan sanitasi untuk membasmi vektor dan mencegah infeksi sekunder, sambil fokus memperkuat respon imun dan nafsu makan hewan untuk mendukung pemulihan.</string>
+    <string name="tindakan2">Vaksinasi dan sanitasi lingkungan memainkan peran penting dalam mencegah Penyakit Kulit Gumpal (LSD) pada sapi. Jika sapi yang sehat berisiko terpapar LSD, maka sangat penting untuk memanfaatkan vaksin yang tersedia, meskipun persediaannya terbatas. Proses vaksinasi harus diprioritaskan, terutama untuk ternak yang berada dalam radius dua kilometer dari lokasi infeksi yang diketahui. Lalu pencegahan lainnya adalah dengan menerapkan Biosekuriti pada setiap peternakan. Aspek biosekuriti yang perlu diterapkan, seperti monitoring hewan yang baru masuk ke peternakan tersebut, semua kendaraan, tamu yg keluar dan masuk harus disinfeksi, termasuk tukang kandang untuk mengganti baju dan merendam dalam disinfektan seperti larutan hipoklorit/pemutih, tempat makan, sepatu boot dan peralatan lain yg digunakan di dalam peternakan. Memisahkan hewan yang baru dibeli dengan yang lama, dan memisahkan hewan yang diduga sakit dari hewan yang sehat.</string>
+
+    <string name="obatMain1">Merawat Sapi yang Terkena LSD</string>
+    <string name="obatMain2">Merawat Luka Sapi</string>
+    <string name="obat1">Tidak ada pengobatan spesifik yang dapat menyembuhkan virus dari LSD, maka dari itu perawatan gejala-gejala yang muncul dapat dilakukan untuk mempercepat proses pemulihan sapi yang terinfeksi contohnya dengan focus pada penguatan respon imun dan nafsu makan hewan. Dalam merawat sapi yang terkena inveksi virus LSD hal yang perlu diperhatikan adalah memberikan makanan tinggi protein dan vitamin E yang membantu Regenerasi kulit.</string>
+    <string name="obat2">selain pentingnya memberikan suportif obat dari dokter, penting pula memberikan asupan protein yang bisa didapat dari ramuan tradisional, seperti  kunyit, bawang putih, telur dan madu untuk mendapat asupan protein dan meningkatkan stamina. Selain telur, memberikan pakan daun dari tumbuhan kacang-kacangan yang masih segar, juga akan memberikan tambahan protein. Kemudian, daun sambiroto dan bawang putih yang direbus, akan mengobati peradangan.</string>
+    <string name="obat3">Untuk perawatan dari luar, peternak hanya perlu melakukan perawatan penyemprotan luka pada nodul berupa pestisida alami, dengan cara disemprotkan perlahan. Adapun bahan untuk membuat pestisida alami dengan merendam tembakau pada air panas selama satu malam. Kemudian, ditambah rimpang dlingo, bawang putih, dan daun sirsak yang direbus menggunakan dua liter air. Setelah dingin, tambahkan satu sendok makan sabun colek, kemudian diaduk, lalu diamkan selama semalam.</string>
+    <string name="obat4">Ramuan pestisida alami ini bisa disemprotkan kepada hewan ternak secara perlahan dan lingkungan kandang. Bisa juga untuk menyemprot alat makan ternak untuk menghilangkan vector atau sumber pembawa virus, seperti lalat, caplak, nyamuk, serta sterilisasi semua benda di dalam kandang.</string>
+    <string name="loginBtn">Login</string>
+
+    <string name="htmlText1">
+        <![CDATA[
+        <h4>1. Demam dan Penurunan Kondisi Umum:</h4>
+        <p>
+            <ul>
+                <li><strong>Demam:</strong> Suhu tubuh meningkat hingga mencapai 41,5°C.</li>
+                <li><strong>Tidak Nafsu Makan:</strong> Terjadi penurunan nafsu makan yang signifikan.</li>
+                <li><strong>Penurunan Produksi Susu:</strong> Produksi susu menurun secara drastis.</li>
+            </ul>
+        </p>
+        <p>
+        <h4>2. Gejala Pernafasan dan Mata:</h4>
+            <ul>
+                <li><strong>Ingusan:</strong> Terjadi keluarnya cairan dari hidung (ingusan).</li>
+                <li><strong>Konjungtivitis:</strong> Mata menjadi merah akibat peradangan.</li>
+                <li><strong>Saliva Berlebihan:</strong> Produksi air liur meningkat secara berlebihan.</li>
+            </ul>
+        </p>
+        <p>
+        <h4>3. Gejala Kesehatan Umum:</h4>
+            <ul>
+                <li><strong>Depresi:</strong> Hewan menunjukkan tanda-tanda depresi.</li>
+                <li><strong>Pembengkakan Limfoglandula:</strong> Kelenjar getah bening membengkak.</li>
+            </ul>
+        </p>
+        <p>
+        <h4>4. Pembentukan Nodul pada Kulit:</h4>
+            <ul>
+                <li><strong>Nodul:</strong> Muncul nodul-nodul berdiameter 2-5 cm pada kulit dalam waktu 48 jam setelah demam.</li>
+                <li><strong>Lokasi Nodul:</strong> Biasanya muncul di kepala, leher, punggung, abdomen, ekor, dan area genital.</li>
+                <li><strong>Nekrosis:</strong> Nodul mengalami nekrosis, menyebabkan "sitfast," yaitu lubang yang dalam pada kulit.</li>
+            </ul>
+        </p>
+        <p>
+        <h4>5. Dampak pada Sistem Reproduksi:</h4>
+            <ul>
+                <li><strong>Sapi Jantan:</strong> Dapat menyebabkan infertilitas (kemandulan) yang bisa bersifat sementara atau permanen.</li>
+                <li><strong>Sapi Betina:</strong> Bisa menyebabkan aborsi dan kemandulan sementara.</li>
+            </ul>
+        </p>
+        <p>
+        <h4>6. Komplikasi:</h4>
+            <ul>
+                <li><strong>Kesembuhan yang Sulit:</strong> Sapi yang terkena biasanya sulit sembuh total.</li>
+                <li><strong>Infeksi Sekunder:</strong> Sering terjadi infeksi sekunder, seperti pneumonia.</li>
+                <li><strong>Nodul yang Terinfeksi Lalat:</strong> Nodul yang tergigit lalat dapat menyebabkan luka dalam.</li>
+            </ul>
+        </p>
+        ]]>
+    </string>
+
+    <string name="htmlTest">
+        <![CDATA[
+        <h2>This is a Header</h2>
+        <p>This is a paragraph with <b>bold</b> text.</p>
+        ]]>
+    </string>
+
+    <string name="htmlText2">
+        <![CDATA[
+        <p>
+            <ul>
+                <li><strong>Melalui Serangga Penghisap Darah:</strong> Virus ditularkan oleh artropoda penghisap darah seperti lalat stable, nyamuk, dan caplak.</li>
+                <li><strong>Induk ke Anak Sapi:</strong> Virus dapat ditularkan melalui sekresi susu dan kulit yang luka.</li>
+                <li><strong>Penyebaran Antara Sapi:</strong> Sapi yang terinfeksi dapat menularkan ke sapi lain saat mereka berpindah ke daerah-daerah lain.</li>
+                <li><strong>Jarum Suntik:</strong> Penggunaan jarum suntik pada vaksinasi massal dapat menyebarkan virus dari keropeng atau kerak kulit yang terinfeksi.</li>
+            </ul>
+        </p>
+        ]]>
+
+    </string>
+
+    <string name="modalContent">Tips Ambil Gambar</string>
+    <string name="modalContent1">Mengerti</string>
+    <string name="modalContent2">
+        <![CDATA[
+        <p>
+            <ol>
+                <li>Ambil gambar pada area permukaan kulit sapi yang mengalami kerusakan.</li><br>
+                <li>Pastikan kamera difokuskan dengan benar pada kerusakan pada kulit sapi.</li><br>
+                <li>Pastikan kulit sapi terlihat jelas dan tidak terlalu gelap maupun terlalu terang.</li><br>
+            </ol>
+        </p>
+        ]]>
+    </string>
+
+
+    <string name="titleAbout">Deskripsi</string>
+    <string name="descDesc">Aplikasi ini dirancang untuk membantu para peternak dalam mendeteksi Lumpy Skin Disease (LSD) pada ternak sapi secara cepat dan akurat. Dengan menggunakan teknologi pengolahan citra, aplikasi ini memungkinkan pengguna untuk mendiagnosis gejala klinis LSD hanya dengan menggunakan foto.</string>
+    <string name="subTitle1">Fitur Utama</string>
+    <string name="descFitur">
+        <![CDATA[
+        <p>
+            <ol>
+                <li>Deteksi Penyakit Secara Cepat: Hanya dengan mengambil atau mengunggah foto sapi, aplikasi ini akan menganalisis dan memberikan hasil deteksi dalam hitungan detik.</li><br>
+                <li>Informasi Gejala Klinis: Tersedia informasi mendetail mengenai gejala klinis LSD, sehingga peternak dapat memahami penyakit ini dengan lebih baik.</li><br>
+                <li>Panduan Pencegahan: Aplikasi juga menyediakan panduan untuk mencegah penyebaran LSD di peternakan.</li><br>
+                <li>Riwayat Pemeriksaan: Menyimpan riwayat pemeriksaan sebelumnya, sehingga pengguna dapat melacak kesehatan ternak mereka dari waktu ke waktu.</li><br>
+            </ol>
+        </p>
+        ]]>
+    </string>
+
+    <string name="subTitle2">Tujuan Pengembangan</string>
+    <string name="descTujuan">Aplikasi ini dikembangkan sebagai bagian dari penelitian untuk meningkatkan kesehatan dan produktivitas peternakan sapi. Dengan alat ini, kami berharap dapat membantu peternak dalam mengidentifikasi penyakit lebih awal, sehingga langkah pencegahan dan pengobatan bisa dilakukan dengan lebih cepat dan efektif.</string>
+    <string name="subTitle3">Tim Pengembang</string>
+    <string name="descTeam">Aplikasi ini dikembangkan oleh Muhammad Rifgi Alghifari sebagai bagian dari proyek akhir dalam program studi Informatika di Institut Teknologi Telkom Purwokerto. Dengan dukungan dari dosen pembimbing dan para ahli di bidang peternakan, aplikasi ini diharapkan dapat memberikan dampak positif bagi industri peternakan.</string>
+    <string name="subTitle4">Kontak</string>
+    <string name="descKontak">
+        <![CDATA[
+        <p>
+            <ol>
+                <li>Email: rifghi.qc15@gmail.com / 20102068@ittelkom-pwt.ac.id</li><br>
+                <li>Telepon: 085215806557</li><br>
+            </ol>
+        </p>
+        ]]>
+    </string>
+    <string name="informasi_profile">Informasi Profil</string>
+    <string name="namaProfile">Nama</string>
+    <string name="ini_namaProfile">ini nama</string>
+    <string name="emailProfile">Email</string>
+    <string name="ini_emailProfile">ini email</string>
+    <string name="pekerjaanProfile">Pekerjaan</string>
+    <string name="ini_pekerjaanProfile">ini pekerjaan</string>
+    <string name="deskripsiProfile">Deskripsi</string>
+    <string name="ini_deskripsiProfile">ini deskripsi</string>
+    <string name="akunProfile">AKUN</string>
+    <string name="outAccount">Keluar</string>
+
+</resources>
