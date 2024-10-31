@@ -1,1 +1,1 @@
-Aplikasi Deteksi Penyakit Lumpy Skin Disease Pada Sapi
+# LSDetect - Aplikasi Deteksi Penyakit Lumpy Skin Disease Pada Sapi
